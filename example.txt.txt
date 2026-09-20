@@ -1,1 +1,1 @@
-hello I am creating new git directory.
+hello I am creating new git directory in git example"
